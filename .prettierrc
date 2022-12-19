@@ -1,0 +1,4 @@
+{
+  "importOrder": ["^@foo/(.*)$", "^[./]"],
+  "importOrderSeparation": true
+}
